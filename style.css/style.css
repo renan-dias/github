@@ -1,0 +1,34 @@
+/* Geral */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background: #333333;
+    color: #fff;
+}
+
+/* Navegação */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Sobre Mim */
+#sobre img {
+    max-width: 100%;
+    border: 5px solid #ddd;
+}
+
+/* Currículo */
+#curriculo {
+    background: #f9f9f9;
+    padding: 20px;
+}
+
+/* Footer */
+footer {
+    background: #333;
+    color: #fff;
+}
